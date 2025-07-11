@@ -4,7 +4,7 @@
 - As part of our hiring process, we require you to complete a technical assessment.
 - This assessment requires the completion of 4 different tasks given below. 
 - Please go through the provided repository's README, fork the repository, and then when you're done, please send me a link to your completed GitHub project.
-- Please also note, you have one week, from the date you received this link in email, to complete all the tasks and send it to me.
+- Please complete all the tasks and send it to me.
 _Good luck, have fun and I'm looking forward to seeing the output._
 
 ## Task #1
@@ -45,18 +45,4 @@ You are assigned the task of validating a customer registration form given above
      
 **Required Output:**
 Write down all possible test cases you would consider for validating this form.
-
-## Task #4
-### Analyze the performance of the product listing page using browser DevTools or Lighthouse.
-
-**Instructions:**
-1. Navigate to the category page - https://www.harveynorman.com.au/computers-tablets/computers/laptops.
-2. Use Chrome DevTools or Lighthouse to measure page load time, render-blocking resources, and Core Web Vitals.
-3. Identify any performance bottlenecks, including large image files or unnecessary scripts.
-4. Suggest optimizations to improve page performance.
-
-**Required Output:**
-Screenshots or JSON report from Lighthouse.
-Brief explanation of findings and optimization suggestions.
-    
 
